@@ -50,12 +50,12 @@ npm install
 npm run dev
 ```
 Photos
-![Connect Metamask](images/ConnectMetamask.png)
-![CrowdMint Home Page](images/HomePage.png)
-![Fund Raiser Form](images/FundRaiserForm.png)
-![Contribution Progress](images/ContributionProgress.png)
-![Contribution List](images/ContributionList.png)
-![Voting Mechanism](images/VotingMechanismforContribution.png)
-![Creator Withdraw](images/WithdrawforCreator.png)
-![Successful Withdraw](images/Withdrawsuccessful.png)
+![Connect Metamask](Photos/ConnectMetamask.png)
+![CrowdMint Home Page](Photos/HomePage.png)
+![Fund Raiser Form](Photos/FundRaiserForm.png)
+![Contribution Progress](Photos/ContributionProgress.png)
+![Contribution List](Photos/ContributionList.png)
+![Voting Mechanism](Photos/VotingMechanismforContribution.png)
+![Creator Withdraw](Photos/WithdrawforCreator.png)
+![Successful Withdraw](Photos/Withdrawsuccessful.png)
 
