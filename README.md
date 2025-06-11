@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 Photos
-![Connect Metamask](Photos/ConnectMetamask.png)
+![Connect Metamask](Photos/ConnectMetaMask.png)
 ![CrowdMint Home Page](Photos/HomePage.png)
 ![Fund Raiser Form](Photos/FundRaiserForm.png)
 ![Contribution Progress](Photos/ContributionProgress.png)
