@@ -48,6 +48,8 @@ npx hardhat run scripts/deploy.js --network localhost
 cd client
 npm install
 npm run dev
-
-![CrowdMint Home Page](images/homepage.png)
+```
+Photos
+![Connect Metamask](images/Connect Metamask.png)
+![CrowdMint Home Page](images/Home Page.png)
 
